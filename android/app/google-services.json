@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287429814417",
+    "project_id": "trike-b9fc0",
+    "storage_bucket": "trike-b9fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287429814417:android:14085781144a71c4907730",
+        "android_client_info": {
+          "package_name": "com.trikerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287429814417-4bnkhnvcmrcelv67hu5dlh9qv9kenegh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKgXvRNEUfj93cMY1m3JLhzy82aPrB7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287429814417-4bnkhnvcmrcelv67hu5dlh9qv9kenegh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
